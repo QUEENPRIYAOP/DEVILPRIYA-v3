@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $thanosuser_REPO == "ThanosBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3RoYW5vc3VzZXIvVGhhbm9zLVVzZXJCb3QvYXJjaGl2ZS9UaGFub3Nib3Quemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1FVRUVOUFJJWUFPUC9USEFOT1MtVVNFUkJPVDEvYXJjaGl2ZS9UaGFub3Nib3Quemlw" | base64 -d
     elif [[ $thanosuser_REPO == "ThanosBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3RoYW5vc3VzZXIvVGhhbm9zLVVzZXJCb3QvYXJjaGl2ZS9UaGFub3Nib3Quemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1FVRUVOUFJJWUFPUC9USEFOT1MtVVNFUkJPVDEvYXJjaGl2ZS9UaGFub3Nib3Quemlw" | base64 -d
     elif [[ $thanosuser_REPO =~ $regex ]]
     then
         if [[ $thanosuser_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${thanosuser_REPO}/archive/ThanosBot.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3RoYW5vc3VzZXIvVGhhbm9zLVVzZXJCb3QvYXJjaGl2ZS9UaGFub3Nib3Quemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1FVRUVOUFJJWUFPUC9USEFOT1MtVVNFUkJPVDEvYXJjaGl2ZS9UaGFub3Nib3Quemlw" | base64 -d
     fi
 }
 

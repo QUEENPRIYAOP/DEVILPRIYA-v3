@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>THANOS USERBOT</b>
+<b>SHANAYA USERBOT</b>
 </h1>
 <p align="center">
   <img src="https://telegra.ph/file/78bb151e26328b3d06559.jpg" alt="The-PANTHERS BOT">

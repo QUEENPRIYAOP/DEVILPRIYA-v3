@@ -1,1 +1,1 @@
-worker: bash SHANAYA
+worker: bash SHANAYAv2

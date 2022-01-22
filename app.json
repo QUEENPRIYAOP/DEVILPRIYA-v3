@@ -1,7 +1,7 @@
 {
-  "name": "Tᕼᗴ ＴＨΛＮ♢Ｓ",
-  "description": "The ＴＨΛＮ♢ＳBot made by @mafiarishabh ",
-  "logo": "https://telegra.ph/file/97012cc8b32a2744c50b3.jpg",
+  "name": "𝘿3𝙑𝙄𝙇 𝙋𝙍𝙄𝙔𝘼",
+  "description": "The 𝘿3𝙑𝙄𝙇 𝙋𝙍𝙄𝙔𝘼Bot made by @CUTIE_PRIYAOP1 ",
+  "logo": "https://telegra.ph/file/0b44d5ea0851371e2bbff.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/thanosuser/ThanosBot",
+  "repository": "https://github.com/QUEENPRIYAOP/DEVILPRIYA",
   "website": "https://github.com/thanosuser/ThanosBot",
   "success_url": "https://t.me/thanosBot_chats",
   "env": {
@@ -29,7 +29,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Command.",
-      "value": "⚔️ ᴛʜᴀɴᴏꜱ ɪꜱ ᴀʟɪᴠᴇ⚔️",
+      "value": "⚔️ PRIYA ɪꜱ ᴀʟɪᴠᴇ⚔️",
       "required": false
     },
     "ALIVE_PIC": {
@@ -44,7 +44,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "🔥𝕃𝔼𝔾𝔼ℕ𝔻 𝕊𝔸𝕐 𝕋ℍ𝔸ℕ𝕆𝕊🔥",
+      "value": "🔥LEGEND SAY TO PRIYA🔥",
       "required": false
     },
     "PMPERMIT_PIC": {

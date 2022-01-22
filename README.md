@@ -66,11 +66,10 @@ height="40px" width="200px" alt="heroku" /></a>
 
 
 <summary> • plugin CREDITS • </summary>
-<h2 align="center"> <a href="https://github.com/REBEL75/REBELBOT">💥REBEL💥</a></h2>
+<h2 align="center"> <a href="https://github.com/THANOSUSER/THANOSBOT-V3.0">💥THANOS💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDBOT">💥LEGEND💥</a></h2>
-</details>
+
 
 <details>

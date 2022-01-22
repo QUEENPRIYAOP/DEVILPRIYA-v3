@@ -1,8 +1,8 @@
 <h1 align="center">
-<b>SHANAYA USERBOT</b>
+<b>𝘿3𝙑𝙄𝙇 𝙋𝙍𝙄𝙔𝘼 USERBOT</b>
 </h1>
 <p align="center">
-  <img src="https://telegra.ph/file/78bb151e26328b3d06559.jpg" alt="The-PANTHERS BOT">
+  <img src="https://telegra.ph/file/5288e3a2cfd6a266ddf5a.jpg" alt="The-PANTHERS BOT">
 
 𝙱𝙴𝚂𝚃  𝙰𝙽𝙳  𝙼𝙾𝚂𝚃  𝙰𝚆𝙰𝙸𝚃𝙴𝙳  𝚄𝚂𝙴𝚁𝙱𝙾𝚃  𝚃𝙾  𝙼𝙰𝙽𝙰𝙶𝙴  𝚈𝙾𝚄𝚁  𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 </p>
 
@@ -11,7 +11,7 @@
 
 ------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [RISHABH](https://t.me/MAFIARISHABH)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [PRIYA](https://t.me/QUEENPRIYAOP)
 
 ---------------
 
@@ -23,7 +23,7 @@
 -------------------------------------------------
 
 # 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
-<a href="https://heroku.com/deploy?template=https://github.com/QUEENPRIYAOP/SHANAYAv2" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
+<a href="https://heroku.com/deploy?template=https://github.com/QUEENPRIYAOP/DEVILPRIYA" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20YOUR%20PRIYA-black?style=for-the-badge&logo=heroku" 
 height="40px" width="200px" alt="heroku" /></a>
 
 ------------------------------------------------

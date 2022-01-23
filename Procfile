@@ -1,1 +1,1 @@
-worker: bash DEVILPRIYA
+worker: bash DEVILPRIYA-v2
